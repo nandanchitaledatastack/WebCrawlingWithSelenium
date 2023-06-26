@@ -1,0 +1,10 @@
+# Ignore Excel files
+*.xlsx
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
